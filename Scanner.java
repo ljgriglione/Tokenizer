@@ -4,7 +4,9 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.ArrayList;
 import java.util.Set;
-import java.io.FileNotFoundException;
+import java.io.BufferedReader;       
+import java.io.FileReader;          
+import java.io.IOException;      
 
 public final class Scanner {
     // Constant token codes
